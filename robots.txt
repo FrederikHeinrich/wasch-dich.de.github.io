@@ -1,0 +1,4 @@
+# robots.txt zu https://wasch-dich.de
+User-agent: *
+Disallow: /*.jpng$
+Disallow: /*.png$
